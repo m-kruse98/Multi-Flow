@@ -70,15 +70,14 @@ Different options can be found using ```python train.py --help```. Hyperparamete
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
-    <h2 class="title">BibTeX  - Citation (non-preprint version pending)</h2>
-    <pre><code>@misc{kruse2025multiflow,
-    title={Multi-Flow: Multi-View-Enriched Normalizing Flows for Industrial Anomaly Detection},
-    author={Mathis Kruse and Bodo Rosenhahn},
-    year={2025},
-    eprint={2504.03306},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-    }
+    <h2 class="title">BibTeX  - Citation</h2>
+    <pre><code>@InProceedings{Kruse_2025_CVPR,
+    author    = {Kruse, Mathis and Rosenhahn, Bodo},
+    title     = {Multi-Flow: Multi-View-Enriched Normalizing Flows for Industrial Anomaly Detection},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {3933-3944}
 }</code></pre>
   </div>
 </section>
